@@ -16,10 +16,15 @@ Local Storage: Persists tasks in the browser's local storage, ensuring data pers
 Folder Structure:
 
 src/app: Contains the Redux store configuration.
+
 src/components: Houses React components including TaskInput and TaskList.
+
 src/features/tasks: Defines Redux slice for tasks management.
+
 src/App.css: Includes CSS files for styling components.
+
 public: Holds static assets such as index.html.
+
 Installation:
 To run the application locally, clone this repository and run npm install to install dependencies. Then, use npm start to start the development server.
 
