@@ -19,7 +19,7 @@ src/app: Contains the Redux store configuration.
 
 src/components: Houses React components including TaskInput and TaskList.
 
-src/features/tasks: Defines Redux slice for tasks management.
+src/tasks: Defines Redux slice for tasks management.
 
 src/App.css: Includes CSS files for styling components.
 
